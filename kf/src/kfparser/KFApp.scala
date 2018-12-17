@@ -1,12 +1,7 @@
 package kfparser
 
-import java.net.HttpURLConnection
-import java.net.URL
-import sun.net.www.http.HttpClient
-import java.io.InputStream
 import javax.ws.rs.client.ClientBuilder
 import javax.ws.rs.core.MediaType
-import jdk.nashorn.internal.ir.ObjectNode
 
 object KFApp {
 
